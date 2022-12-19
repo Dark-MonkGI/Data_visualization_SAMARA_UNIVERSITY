@@ -9,7 +9,9 @@ DV-2022
 ### Группа: "6231-010402D"
 
 ### Средства, используемые для разработки приложения: <br/>
-> PyCharm Community Edition 2021.2.1; <br/>
+> Python 3: https://www.python.org/;
+Jupyter-notebook;  <br/>
+> Jupyter-notebook;  <br/>
 > Google Colaboratory
 compute capability: 3.7; <br/>
 <br/>
