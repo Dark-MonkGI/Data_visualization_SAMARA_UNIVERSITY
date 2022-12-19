@@ -3,7 +3,7 @@
 
 [Samara University](https://ssau.ru/) <br/>
 DV-2022
-## Лабораторные работы по курсу "Data visualization". <br/>
+## Лабораторные работы по курсу: "Data visualization". <br/>
 Визуализация данных <br/>
 #### Student: Griaznov Ilia <br/>
 ### Группа: "6231-010402D"
