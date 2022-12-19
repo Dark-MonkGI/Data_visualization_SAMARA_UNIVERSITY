@@ -14,7 +14,7 @@ DV-2022
 compute capability: 3.7; <br/>
 <br/>
 
-### 1. [Laboratory work]()
+### 1. [Laboratory work](https://github.com/Dark-MonkGI/Data_visualization_SAMARA_UNIVERSITY/blob/main/1.%20Laboratory%20work/LB1_Griaznov_6231.ipynb)
 
 ### 2. [Laboratory work]()
 
@@ -24,4 +24,4 @@ compute capability: 3.7; <br/>
 
 <br/>
 
-![logo]()
+![logo](https://github.com/Dark-MonkGI/Data_visualization_SAMARA_UNIVERSITY/blob/main/plotly_img.jpg)
