@@ -23,8 +23,6 @@ compute capability: 3.7; <br/>
 
 ### 4. [Laboratory work](https://github.com/Dark-MonkGI/Data_visualization_SAMARA_UNIVERSITY/blob/main/4.%20Laboratory%20work/LB4_Griaznov_6231.ipynb)
 
-### 5. [Laboratory work]()
-
 <br/>
 
 ![logo](https://github.com/Dark-MonkGI/Data_visualization_SAMARA_UNIVERSITY/blob/main/plotly_img.jpg)
